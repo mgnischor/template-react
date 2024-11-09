@@ -1,0 +1,6 @@
+# Internal folders
+.vscode/
+dist/
+
+# Node.js
+node_modules/
